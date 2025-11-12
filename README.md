@@ -1,2 +1,18 @@
-# sales_analysis_using_python
-This is a simple beginner-friendly data analysis project that uses Pandas and Matplotlib to explore and visualize sales data. The project focuses on analyzing sales performance by product, region, and month to uncover useful business insights.
+# 🧩 Sales Data Analysis using Python
+
+### Overview
+A beginner-friendly data analysis project using Pandas and Matplotlib to explore and visualize sales trends by product, region, and time.
+
+### Steps
+1. Import the dataset
+2. Clean and explore data
+3. Analyze sales performance by region and product
+4. Visualize monthly sales trend
+
+### Libraries Used
+- pandas
+- matplotlib
+
+### Run the Script
+
+python sales_analysis.py
